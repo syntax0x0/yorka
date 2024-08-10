@@ -1,0 +1,15 @@
+{
+    "dwViewMatrix": 27026000,
+    "dwLocalPlayerPawn": 24966808,
+    "dwEntityList": 26624408,
+    "m_hPlayerPawn": 2012,
+    "m_iHealth": 804,
+    "m_lifeState": 808,
+    "m_iTeamNum": 963,
+    "m_vOldOrigin": 4724,
+    "m_pGameSceneNode": 776,
+    "m_modelState": 368,
+    "m_boneArray": 128,
+    "m_nodeToWorld": 16,
+    "m_sSanitizedPlayerName": 1856
+}
